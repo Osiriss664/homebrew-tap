@@ -1,8 +1,8 @@
 class Sandseek < Formula
   desc "Let a local LLM research the web from inside a throwaway Apple container VM"
   homepage "https://github.com/Osiriss664/SandSeek"
-  url "https://github.com/Osiriss664/SandSeek/archive/refs/tags/v0.4.1.tar.gz"
-  sha256 "0e01c3b2711cb67a1808710b526a31586272953f421a76f2d2e67bab96b0810a"
+  url "https://github.com/Osiriss664/SandSeek/archive/refs/tags/v0.4.2.tar.gz"
+  sha256 "ec9f0bb1563d65f4da105eeb264b331af9c6ac17a16c2763292c9a4d18a88b4a"
   license "Apache-2.0"
   head "https://github.com/Osiriss664/SandSeek.git", branch: "main"
 
