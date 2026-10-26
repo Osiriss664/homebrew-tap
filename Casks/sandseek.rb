@@ -1,6 +1,6 @@
 cask "sandseek" do
-  version "0.4.2"
-  sha256 "535f75220ad2ddf7c450b7d58275897cd4c80b833cb01a8c9ca536af3b3ba40f"
+  version "0.4.3"
+  sha256 "1109c6ff79877ca127936c6335b75c06b7fcb64ecd559566f2e9233f9e0a2de4"
 
   url "https://github.com/Osiriss664/SandSeek/releases/download/v#{version}/SandSeek-#{version}.zip"
   name "SandSeek"
